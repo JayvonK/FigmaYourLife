@@ -146,7 +146,7 @@ p {
 
 .textBG {
     background-color: #393535b5;
-    width: 922px;
+    width: 100%;
     height: 246px;
     display: flex;
     align-items: center;
