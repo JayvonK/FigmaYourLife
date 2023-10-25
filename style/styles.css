@@ -1,0 +1,138 @@
+@font-face {
+    font-family: GoldMan;
+    src: url(../assets/Goldman-Regular.ttf);
+}
+
+body {
+    height: 1024px;
+}
+
+h5 {
+    font-size: 36px;
+}
+
+p {
+    font-size: 16px;
+}
+
+.black {
+    background-color: black;
+}
+
+.landingBG {
+    /* background-image: url(../assets/landing\ page.jpg); */
+    background-size: cover;
+    width: 1440px;
+    height: 928px
+}
+
+.white {
+    color: white;
+}
+
+.logoImg {
+    width: 119px;
+    height: 59px;
+    margin-left: -10px;
+}
+
+.navbarSize {
+    width: 1440px;
+    height: 78px;
+    margin-top: -8px;
+    margin-bottom: -8px;
+}
+
+.navbarItemSize {
+    width: 1319px;
+    height: 96px;
+    margin-left: -16px;
+    font-size: 36px;
+}
+
+.underlineOut {
+    text-decoration: none;
+}
+
+.GoldMan {
+    font-family: "GoldMan";
+}
+
+.width {
+    width: 1464px;
+}
+
+.width2 {
+    width: 1440px;
+}
+
+.up {
+    margin-top: -135px;
+}
+
+.even {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+.up2 {
+    margin-top: -95px;
+}
+
+.up3 {
+    margin-top: -80px
+}
+
+.imgHeight {
+    height: 928px;
+    width: 1440px;
+    opacity: 100%;
+}
+
+.center {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.cardup1 {
+    margin-top: -900px;
+}
+
+.end {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.borderRadius {
+    border-radius: 20%;
+}
+
+.textLeft {
+    text-align: left;
+}
+
+.cardImgHeight {
+    height: 256px;
+}
+
+.down {
+    margin-top: 16px;
+}
+
+.red {
+    color: red;
+}
+
+.btn {
+    color: white;
+    font-size: 36px;
+}
+
+.btn:hover {
+    color: red;
+}
