@@ -66,12 +66,9 @@ p {
 }
 
 .width {
-    width: 1464px;
+    width: 100%;
 }
 
-/* .width2 {
-    width: 1440px;
-} */
 
 .up {
     margin-top: -135px;
@@ -161,5 +158,5 @@ p {
 
 .outline {
     -webkit-text-stroke-color: black;
-    -webkit-text-stroke-width: medium;
+    -webkit-text-stroke-width: 1px;
 }
